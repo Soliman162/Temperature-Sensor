@@ -1,0 +1,5 @@
+/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/build/CMakeFiles/Temp_Sensor.elf.dir
+/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/build/CMakeFiles/flash.dir
+/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/build/CMakeFiles/burn.dir
+/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/build/CMakeFiles/edit_cache.dir
+/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/build/CMakeFiles/rebuild_cache.dir

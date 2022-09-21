@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/main.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/APP/main.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/main.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LED/LED_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LED/LED_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LED/LED_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LM35/LM35_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LM35/LM35_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/LM35/LM35_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/CLCD/CLCD_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/CLCD/CLCD_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/CLCD/CLCD_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/BUZZER/BUZZER_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/BUZZER/BUZZER_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/HAL/BUZZER/BUZZER_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/DIO/DIO_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/DIO/DIO_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/DIO/DIO_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/ADC/ADC_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/ADC/ADC_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/ADC/ADC_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/Temperature_Sensor/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../LIB -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/CLCD -I/home/soliman/AVR/ATmega32/Temperature_Sensor/APP/../HAL/BUZZER -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/Temp_Sensor.elf.dir/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/Timer1/TIMER1_program.c.o -c /home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/Timer1/TIMER1_program.c",
+  "file": "/home/soliman/AVR/ATmega32/Temperature_Sensor/MCAL/Timer1/TIMER1_program.c"
+}
+]

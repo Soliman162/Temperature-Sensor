@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"clcd_interface.h": "c",
+			"adc_interface.h": "c",
+			"lm35_interface.h": "c",
+			"led_interface.h": "c",
+			"dio_interface.h": "c"
+		}
+	}
+}
